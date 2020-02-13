@@ -1,0 +1,1 @@
+This script pulls the latests tweets and sentiment on a range of stock symbol. I've set this to run on a Google Cloud Compute instance pulling new data every ten minutes. Tweets will be saved into a cloud storage bucket daily.
